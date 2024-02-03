@@ -3,4 +3,4 @@ Implement a linear regression model to predict the prices of houses based on the
 <br>
 Dataset: - https://www.kaggle.com/c/house-prices-advanced- regression-techniques/data
 
-Author: Jakir Hussain Mac
+Author: Jakir Hussain
