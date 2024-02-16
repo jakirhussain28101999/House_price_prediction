@@ -81,7 +81,7 @@ def predict_house_price(square_footage, bedrooms, bathrooms, city):
     return predicted_price[0]
 
 
-cty_name=input("Enter city name to predict house price in a particular city(name as per dataset): ")
+#cty_name=input("Enter city name to predict house price in a particular city(name as per dataset): ")
 # predict house price in a particular city
-predicted_price_city = predict_house_price(1930, 3.0, 2.0, cty_name)
-print('Predicted Price in Seattle:', predicted_price_city)
+predicted_price_city = predict_house_price(1930, 3.0, 2.0, "Kent")
+print('Predicted Price in Kent:', predicted_price_city)
