@@ -3,7 +3,8 @@ Implement a linear regression model to predict the prices of houses based on the
 <br>
 Dataset: - https://www.kaggle.com/datasets/shree1992/housedata/download?datasetVersionNumber=2
 <br>
-Author: Jakir Hussain
+Author: Jakir Hussain<br>
+www.linkedin.com/in/jakirhussain28 <br>
 <br>
 I was able to apply my knowledge from what I am learning in IBM Machine Learning with Python. <br>
 Here, I have used multiple regression/estimation. <br>
